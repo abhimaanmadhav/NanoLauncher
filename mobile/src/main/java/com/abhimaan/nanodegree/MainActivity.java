@@ -1,4 +1,4 @@
-package merchant.unopay.techjini.com.myapplication;
+package com.abhimaan.nanodegree;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

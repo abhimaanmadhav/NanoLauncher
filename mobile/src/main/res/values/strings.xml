@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Portfolio App</string>
     <string name="action_settings">Settings</string>
+    <string name="app_name1">SPOTIFY STREAMER</string>
+    <string name="app_name2">SCORE APP</string>
+    <string name="app_name3">LIBRARY APP</string>
+    <string name="app_name4">BUILD IT BIGGER </string>
+    <string name="app_name5">XYZ READER</string>
+    <string name="app_name6">CAPSTONE: MY OWN APP</string>
+
 </resources>
